@@ -227,7 +227,7 @@ O resultado será:
 
 É semelhante a forma que criamos um link: onde colocamos o texto a ser exibido entre colchetes e a url entre parênteses.
 
-A diferença é que, entre parênteses, deve conter uma hashtag, seguida de hífen e o texto da seção onde quer criar a âncora (link para o próprio documento). Este texto não deve conter espaços, apenas hífen entre as palavras.
+A diferença é que, entre parênteses, deve conter uma hashtag, seguida do texto da seção onde quer criar a âncora (link para o próprio documento). Este texto não deve conter espaços, apenas hífen entre as palavras.
 
 ## Editor online para criar README
 - https://www.makeareadme.com
