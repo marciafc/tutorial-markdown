@@ -67,7 +67,7 @@ O gif nada mais é, que uma sequência de imagens que serão exibidas em uma ord
 
 Selecione as imagens que irão aparecer no gif. 
 
-Realize o upload para algum serviço online que faça geração de gif (nas "Referências" é possível consultar algumas indicações de sites e também um passo a passo). 
+Realize o upload para algum serviço online que faça geração de gif. No final deste documento há uma seção de "Dicas de links" onde é possível consultar [sites para geração de gif](#sites-para-geração-de-gif) e também um [passo a passo](#Como-criar-um-gif-animado) 
 
 ## Como criar títulos
 
@@ -229,14 +229,38 @@ O resultado será:
 
 A diferença é que, entre parênteses, deve conter uma hashtag, seguida do texto da seção onde quer criar a âncora (link para o próprio documento). Este texto não deve conter espaços, apenas hífen entre as palavras.
 
-## Editor online para criar README
+
+## Dicas de links 
+
+### Editor online para criar README
+
 - https://www.makeareadme.com
 
-## Alguns templates de README
+### Alguns templates de README
 
 - https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 - https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46
+
+### Extensão "Emoji Snippets" (Devzstudio) para o Visual Studio Code
+
+- https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets
+
+### Site para realizar upload de imagens
+
+- https://imagekit.io/dashboard#media-library
+
+### Sites para geração de gif
+
+    - Gifmaker: https://gifmaker.me
+    - Giphy: https://giphy.com
+    - Make a Gif: https://makeagif.com
+    - Imgflip: https://imgflip.com
+    - Ezgif: https://ezgif.com
+
+### Como criar um gif animado
+
+- https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/02/como-criar-um-gif-animado.html
 
 ## Referências
 
@@ -245,24 +269,8 @@ A diferença é que, entre parênteses, deve conter uma hashtag, seguida do text
 - Github do projeto da Daniele Leão Evangelista:
 https://github.com/danileao/rocketmusic
 
-
 - Link da documentação do Markdown:
 https://daringfireball.net/projects/markdown
 
 - Mastering Markdown:
 https://guides.github.com/features/mastering-markdown/
-
-- Site para realizar upload de imagens:
-https://imagekit.io/dashboard#media-library
-
-- Sites para geração de gif:
-    - Gifmaker: https://gifmaker.me
-    - Giphy: https://giphy.com
-    - Make a Gif: https://makeagif.com
-    - Imgflip: https://imgflip.com
-    - Ezgif: https://ezgif.com
-
-- Como criar um gif animado: https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/02/como-criar-um-gif-animado.html
-
-- Extensão "Emoji Snippets" (Devzstudio) para o Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=devzstudio.emoji-snippets
-
