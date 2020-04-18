@@ -21,7 +21,7 @@ Basta clicar no canto superior direito, no ícone onde ao posicionar o mouse em 
 
 ## Como inserir uma imagem
 
-Imagem localizada em algum site: utilizar a sintaxe de html:
+Imagem localizada em algum site: utilizar a sintaxe de html
 
 ```html
 <img src="https://ik.imagekit.io/wmdxyyoe83/logo2_wkzFleEF6_-uxaxxgq0.png">
@@ -59,7 +59,7 @@ O resultado será:
     <img src="public/apresentacao.gif">
 </h1>
 
-Sim, pode é possível adicionar um gif no formato de preview/apresentação da sua aplicação!
+Sim, é possível adicionar um gif com o preview/apresentação da sua aplicação!
 
 ## Como criar um gif
 
@@ -194,8 +194,6 @@ $ yarn install
 $ yarn start
 ```
 
-Dentre diversas outras linguagens que você pode definir... 
-
 Consulte outras linguagens:
  - https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown
  
@@ -218,14 +216,14 @@ O resultado será:
 ## Como criar um índice
 
 ```
-- [Tutorial de Markdown](#-tutorial-de-markdown)
-- [Como inserir uma imagem](#-como-inserir-uma-imagem)
+- [Tutorial de Markdown](#tutorial-de-markdown)
+- [Como inserir uma imagem](#como-inserir-uma-imagem)
 ```
 
 O resultado será:
 
-- [Tutorial de Markdown](#-tutorial-de-markdown)
-- [Como inserir uma imagem](#-como-inserir-uma-imagem)
+- [Tutorial de Markdown](#tutorial-de-markdown)
+- [Como inserir uma imagem](#como-inserir-uma-imagem)
 
 É semelhante a forma que criamos um link: onde colocamos o texto a ser exibido entre colchetes e a url entre parênteses.
 
