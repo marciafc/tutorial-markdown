@@ -252,11 +252,11 @@ A diferença é que, entre parênteses, deve conter uma hashtag, seguida do text
 
 ### Sites para geração de gif
 
-    - Gifmaker: https://gifmaker.me
-    - Giphy: https://giphy.com
-    - Make a Gif: https://makeagif.com
-    - Imgflip: https://imgflip.com
-    - Ezgif: https://ezgif.com
+- Gifmaker: https://gifmaker.me
+- Giphy: https://giphy.com
+- Make a Gif: https://makeagif.com
+- Imgflip: https://imgflip.com
+- Ezgif: https://ezgif.com
 
 ### Como criar um gif animado
 
