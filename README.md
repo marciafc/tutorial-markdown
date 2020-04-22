@@ -236,6 +236,8 @@ A diferença é que, entre parênteses, deve conter uma hashtag, seguida do text
 
 - https://www.makeareadme.com
 
+- https://stackedit.io
+
 ### Alguns templates de README
 
 - https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
